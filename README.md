@@ -7,7 +7,7 @@ This is a Xamarin.Forms application for iOS and Android that allows users to che
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/your-username/palindrome-check.git
+   git clone https://github.com/rodrigoalvesl/palindrome-check.git
    ```
 
 2. Open the project solution in Visual Studio.
